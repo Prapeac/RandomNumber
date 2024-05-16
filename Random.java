@@ -14,6 +14,7 @@ public class Random {
             // calculate the diffrenece
             int diff=temp-val;
             attempt=attempt-1;
+            ///hsfhsjjsbjb
             if(diff==0)
             {
                 System.out.println("Congratulation you succefully guesses the number!");
